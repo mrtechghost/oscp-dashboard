@@ -3,4 +3,4 @@ I have created this dashboard to track oscp preparation. While creating this das
 
 This dashboard is designed with help of notion. You need to copy instance to your owm notion.
 
-https://www.notion.so/mrtechghost/OSCP-Preparation-Dashboard-e44f0fc683bb4fdc9ecd851a857e64b2
+https://mrtechghost.notion.site/OSCP-Preparation-Dashboard-e44f0fc683bb4fdc9ecd851a857e64b2
